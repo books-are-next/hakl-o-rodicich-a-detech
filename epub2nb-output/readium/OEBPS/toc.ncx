@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>O rodičích a dětech</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Pavilon tučňáků</text>
+      </navLabel>
+      <content src="Text/o_rodicich_a_detech_006.xhtml#_idParaDest-1"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Proč nemohla posádka Kurska sama opustit ponorku</text>
+      </navLabel>
+      <content src="Text/o_rodicich_a_detech_007.xhtml#_idParaDest-2"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Svět</text>
+      </navLabel>
+      <content src="Text/o_rodicich_a_detech_008.xhtml#_idParaDest-3"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Ať žije maršál Tito!</text>
+      </navLabel>
+      <content src="Text/o_rodicich_a_detech_009.xhtml#_idParaDest-4"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Co je v životě novýho</text>
+      </navLabel>
+      <content src="Text/o_rodicich_a_detech_010.xhtml#_idParaDest-5"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>O rodičích a dětech (1)</text>
+      </navLabel>
+      <content src="Text/o_rodicich_a_detech_011.xhtml#_idParaDest-6"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>O rodičích a dětech (2)</text>
+      </navLabel>
+      <content src="Text/o_rodicich_a_detech_012.xhtml#_idParaDest-7"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>O rodičích a dětech (3)</text>
+      </navLabel>
+      <content src="Text/o_rodicich_a_detech_013.xhtml#_idParaDest-8"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Barák</text>
+      </navLabel>
+      <content src="Text/o_rodicich_a_detech_014.xhtml#_idParaDest-9"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>O rodičích a dětech (4)</text>
+      </navLabel>
+      <content src="Text/o_rodicich_a_detech_015.xhtml#_idParaDest-10"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Kulisy</text>
+      </navLabel>
+      <content src="Text/o_rodicich_a_detech_016.xhtml#_idParaDest-11"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>O rodičích a dětech (5)</text>
+      </navLabel>
+      <content src="Text/o_rodicich_a_detech_017.xhtml#_idParaDest-12"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Prinz Heinrich</text>
+      </navLabel>
+      <content src="Text/o_rodicich_a_detech_018.xhtml#_idParaDest-13"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Kafe</text>
+      </navLabel>
+      <content src="Text/o_rodicich_a_detech_019.xhtml#_idParaDest-14"/>
+    </navPoint>
+  </navMap>
+</ncx>
