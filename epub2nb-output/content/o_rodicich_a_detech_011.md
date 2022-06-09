@@ -3,8 +3,6 @@ title: "O\_rodičích a\_dětech (1)"
 contentType: prose
 ---
 
-  
-
 Vykročili jsme předimenzovaným, pustým bulvárem z padesátých let zpátky do města. Po chvíli jsme minuli pajzl, jehož jméno znělo Eufrat, ale kterému se v životě neřeklo jinak než Arafat. Za výlohou beznadějně bzučel a poblikával zelený nápis oznamující, že v trubkách podniku koluje Staropramen. Vrátili jsme se a nakoukli dovnitř. U stolů seděli nahrbenci, hleděli před sebe, kousali do tlačenky a pili pivo.
 
 „Potěš pámbu,“ řekl tiše otec, „nezkusíme najít něco jinýho?“

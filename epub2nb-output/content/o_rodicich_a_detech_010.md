@@ -3,8 +3,6 @@ title: "Co je v\_životě novýho"
 contentType: prose
 ---
 
-  
-
 „No vidiš, tady jsem nikdy v životě nebyl,“ řekl otec překvapeně, „tady to ani nevypadá jako v Praze… To spíš vypadá, jak kdyby se tu natáčely Mrtvý voči Londýna!“
 
 „To je hodně zvláštní končina,“ přitakal jsem. „Já tudy šel asi před rokem a vzpomněl jsem si, že tady někde v těch místech bydlí jeden známej, a nenapadlo mě nic lepšího než se po něm ptát tří udělanejch mladejch cigošů, co se tu poflakovali. ‚No jasně, takovej velkej, Franta nebo Lojza,‘ povidaj. ‚To nebude von,‘ já na to, tenhle se menuje Pavel,‘ a voni: ‚Nojó, jasně, Pavel, takovej velkej, poď s náma, my ti vokážem, kde bydlí,‘ a já s nima šel jak nejhorší blbec do baráku, ze slušnosti, víš, abych se náhodou nedotk někoho, kdo mi chce pomoct… A voni hned dole zaujali takovou speciální formaci, jeden šel přede mnou a dva za mnou, no, a už jsme šlapali po úzkejch točitejch schodech, vypadalo to tam přesně, jako bysme lezli vnitřkem ulity. A to už jsem teda skoro cejtil kudlu v ledvinách. A ten první najednou zastavil, kouk na mě a povidá: ‚A ty se jako nebojiš?‘ ‚Ne,‘ já na to, a musel jsem si dávat velikej pozor, aby mi nepřeskočil hlas. ‚Ne, jo?‘ řek na to tak ňák zklamaně, ‚no dobrý, tak dem…‘ A když jsme vylezli nahoru, tak tam byla nizounká tmavá chodba, a von na mě kouk eště jednou a povidá, jako by tomu nechtěl věřit: ‚A ty tu jako fakt hledáš toho Lojzu, jo?‘ ‚No jasně,‘ povidám a lámu si hlavu, jestli zkusit ty dva vzadu porazit a utýct, nebo radši na někoho zazvonit, když vtom jeden z nich zabouchal na dveře a ze dveří vylezla napuchlá zamaštěná striga s ručníkem kolem hlavy, na sobě květovanej župan, v uších a na krku samý zlato, a von jí povidá: ‚Je tady ňákej, co shání toho tlustýho Lojzu nebo Frantu, viš, toho velkýho, pořádnýho…‘ A baba se nadechla, až to zahvízdalo, a začala ječet: ,Kolikrát sem vám řikala, ať tady nevotravujete! Todle neni váš barák! Támle máte váš barák! Táhněte, nebo du pro Romana a ten vám to řekne, jo! Vám to Roman řekne jinak! A vy poďte dál, pane!‘“
@@ -97,12 +95,12 @@ Kousek za benzínovou pumpou svítil stánek. Na pultu pod plexisklem spočíval
 
 „Ale tos napsal ty, ty už ani nevíš, cos napsal, to je moje nejvoblíbenější báseň… Řekni taky ňákou!“
 
-„Na centrálním dvorci pražské Štvanice  
+_„Na centrálním dvorci pražské Štvanice  
 tancovaly kurvy při harmonice  
 v svitu měsíce…  
 Já jsem tam tenkrát taky byl  
 a tenis hrál a vodku pil  
-jako ty, Lili Marleen, ne sice…,“
+jako ty, Lili Marleen, ne sice…,“_
 
 _naskočilo mi okamžitě._
 

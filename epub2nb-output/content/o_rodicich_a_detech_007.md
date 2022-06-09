@@ -3,8 +3,6 @@ title: Proč nemohla posádka Kurskasama opustit ponorku
 contentType: prose
 ---
 
-  
-
 „Prosimtebe, co ty se vždycky ptáš, co je novýho,“ povídá do kroku otec, „to je přece tak těžká otázka, že neexistuje těžší! Kdyby ses zeptal, jak se mám, to bych věděl…“
 
 „A jak se teda máš?“

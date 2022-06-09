@@ -3,8 +3,6 @@ title: "O\_rodičích a\_dětech (3)"
 contentType: prose
 ---
 
-  
-
 „Co se děje?“ zeptal jsem se.
 
 „Dyť se podivej, co vyváděj…“

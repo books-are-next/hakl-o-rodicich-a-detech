@@ -3,8 +3,6 @@ title: Pavilon tučňáků
 contentType: prose
 ---
 
-  
-
 „Za kym že?“ natáhl ucho dědek ve vrátnici, ale nepodíval se na mě, protože něco pečlivě krájel a rovnal v umaštěném papíru.
 
 „Za panem Benešem,“ zopakoval jsem.
