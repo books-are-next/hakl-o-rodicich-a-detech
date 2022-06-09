@@ -3,8 +3,6 @@ title: Prinz Heinrich
 contentType: prose
 ---
 
-  
-
 „Vidiš to, bude pršet, eště že jsem si vzal na hlavu prinze Heinricha,“ pochválil se otec, nasadil si čepici a vrazil do popelnice. „To by ten Kohout asi prasknul vzteky, kdyby věděl, že ňákej dědek nosí na hlavě _jeho_ čepici…“
 
 „Jak to?“
@@ -103,10 +101,10 @@ Na konci ulice si stoupáme ke keři, otec z jedné strany a já z druhé.
 
 Vidím před sebou jakési chvějící se listy. Jakési větve. Jakési bobule na nich. Jakýsi nepořádný, hromadami štěrku obklopený trávník. Temným skalám podobné baráky, naklánějící se nad námi ze všech stran.
 
-„Dřímá zámek Pamba,  
+_„Dřímá zámek Pamba,  
 klímá Alvezura,  
 usnula Alhambra,  
-spí Estremadura…,“
+spí Estremadura…,“_
 
 _říkám do těch baráků._
 

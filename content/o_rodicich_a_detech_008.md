@@ -3,8 +3,6 @@ title: Svět
 contentType: prose
 ---
 
-  
-
 Opustili jsme lokál a došli po vrstevnici k místodržitelskému zámečku.
 
 „Nojo, ale kam teď?“ prohodil otec směrem k drobounkému cimbuří sídlišť na obzoru. Za kopcem, posázeným vybělenými kostkami paneláků, se plazil souvislý hřbet mračen.

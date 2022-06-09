@@ -3,8 +3,6 @@ title: "O\_rodičích a\_dětech (4)"
 contentType: prose
 ---
 
-  
-
 Otec nakláněl půllitr a pozoroval světelné šípy, drúzy, ovály a hyper­boly běhající po ubruse.
 
 „Představ si,“ povídám, když jsem si sedl, „že jak teď byla ta válka v Bosně, tak prej byly všechny lesy kolem Lublaně plný medvědů, prej jich tam bylo tolik, že z toho sami byli nervózní, kolik jich tam je pohromadě, a lidi, ty se tam vůbec báli chodit…“

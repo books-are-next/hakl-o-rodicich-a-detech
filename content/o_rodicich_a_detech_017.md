@@ -3,8 +3,6 @@ title: "O\_rodičích a\_dětech (5)"
 contentType: prose
 ---
 
-  
-
 „Poď, tati, a nestuj tady…,“ řekl jsem.
 
 „Ale počkej, dyť mě nech, já vim, ty to můžeš vidět, kdykoliv se ti zachce, a možná dokonce, i když se ti ani nechce, ale já takhle mladou ženskou neviděl už celý léta!“ odpověděl mi otec.

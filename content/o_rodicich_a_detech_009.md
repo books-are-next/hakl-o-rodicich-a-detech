@@ -3,8 +3,6 @@ title: Ať žije maršál Tito!
 contentType: prose
 ---
 
-  
-
 „Aha!“ řekl otec, když spatřil rozsáhlé, složitě tvarované cihlové stavení, hlídané po stranách dvěma holými komíny, ke kterému jsme se pomalu blížili. Byl to objekt č. p. 6, dům, který vypadá jako turecké lázně nebo jako sanatorium pro výstřední zazobance nebo možná spíš jako c. a k. pobočka vznešené tibetské Potaly, ale ve skutečnosti je to obyčejná sračkárna, bývalá čistička městských odpadních vod.
 
 Když jsme se octli přímo před budovou, otec se zastavil a dlouho ji pozoroval. „To mi něčim silně připomíná Ostrov mrtvejch vod Böcklina,“ řekl tichým hlasem.

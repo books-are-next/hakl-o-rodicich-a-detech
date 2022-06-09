@@ -3,8 +3,6 @@ title: "O\_rodičích a\_dětech (2)"
 contentType: prose
 ---
 
-  
-
 „Umřel loni na Štědrej den,“ řekl jsem.
 
 „Aha, jak von byl starej? Von byl myslim vo něco mladší než já… A na co umřel?“
