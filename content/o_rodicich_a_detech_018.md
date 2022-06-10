@@ -3,6 +3,8 @@ title: Prinz Heinrich
 contentType: prose
 ---
 
+<section>
+
 „Vidiš to, bude pršet, eště že jsem si vzal na hlavu prinze Heinricha,“ pochválil se otec, nasadil si čepici a vrazil do popelnice. „To by ten Kohout asi prasknul vzteky, kdyby věděl, že ňákej dědek nosí na hlavě _jeho_ čepici…“
 
 „Jak to?“
@@ -101,10 +103,18 @@ Na konci ulice si stoupáme ke keři, otec z jedné strany a já z druhé.
 
 Vidím před sebou jakési chvějící se listy. Jakési větve. Jakési bobule na nich. Jakýsi nepořádný, hromadami štěrku obklopený trávník. Temným skalám podobné baráky, naklánějící se nad námi ze všech stran.
 
+</section>
+
+<section>
+
 _„Dřímá zámek Pamba,  
 klímá Alvezura,  
 usnula Alhambra,  
 spí Estremadura…,“_
+
+</section>
+
+<section>
 
 _říkám do těch baráků._
 
@@ -349,3 +359,5 @@ Je to tvuj _fotr_…! přikládá satanáš pod kotlem, až to hučí v trubká
 Dívám se, jak mi nerovný povrch chodníku letí pod nohama.
 
 Do toho se mi vybavuje událost stará taky už hodně přes třicet let. Přinesl mi tehdy odněkud krabici plnou angličáků, já jsem se pomátl štěstím a vlepil mu pusu a on zmateně zaprotestoval: „Ale no prosimtebe, to snad přeháníš, chlapi si přece pusu nedávaj, dyť už seš velkej…“ Nejspíš to myslel jen jako takovou rétoriku v rámci výchovy. Jenže to tenkrát byla poslední pusa, kterou ode mě v životě dostal. Jednu by pak býval po létech chtěl, když ležel ve špitále před operací a já nad ním stál s pytlíkem pomerančů. Ale už to nešlo.
+
+</section>

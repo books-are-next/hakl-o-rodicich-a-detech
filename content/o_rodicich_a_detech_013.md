@@ -3,6 +3,8 @@ title: "O\_rodičích a\_dětech (3)"
 contentType: prose
 ---
 
+<section>
+
 „Co se děje?“ zeptal jsem se.
 
 „Dyť se podivej, co vyváděj…“
@@ -248,3 +250,5 @@ Vyjmul jsem z krabičky další tři sirky a vyrobil další trojnožku. Tento
 „Tak na zdraví,“ řekl otec.
 
 „Na zdraví,“ řekl jsem a ucítil, jak mi řídká pěna teče z koutků úst na bradu a z brady za košili.
+
+</section>

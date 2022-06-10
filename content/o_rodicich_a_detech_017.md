@@ -3,6 +3,8 @@ title: "O\_rodičích a\_dětech (5)"
 contentType: prose
 ---
 
+<section>
+
 „Poď, tati, a nestuj tady…,“ řekl jsem.
 
 „Ale počkej, dyť mě nech, já vim, ty to můžeš vidět, kdykoliv se ti zachce, a možná dokonce, i když se ti ani nechce, ale já takhle mladou ženskou neviděl už celý léta!“ odpověděl mi otec.
@@ -176,3 +178,5 @@ Máchl rukou otec a starosvětsky luskl na polonahou mažoretku: „Dejte nám 
 „Nespěchám vůbec nikam,“ řekl jsem. „Mimochodem, já byl celý dětství přesvědčenej, že se řiká Nelzebub…“
 
 A můj otec se upřímně rozesmál. Ten večer poprvé. Minule, když jsme byli na pivu, nezasmál se ani jednou. Předminule taky ne. Předtím určitě taky ne. Až teď. Takové kravině. Dopili jsme, zaplatili, odšoupli židle, vstali, zašoupli židle, prošli jsme světélkujícím kouřem ke dveřím, otevřeli je a vyšli na vzduch.
+
+</section>

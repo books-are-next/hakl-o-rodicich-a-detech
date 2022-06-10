@@ -3,6 +3,8 @@ title: "O\_rodičích a\_dětech (4)"
 contentType: prose
 ---
 
+<section>
+
 Otec nakláněl půllitr a pozoroval světelné šípy, drúzy, ovály a hyper­boly běhající po ubruse.
 
 „Představ si,“ povídám, když jsem si sedl, „že jak teď byla ta válka v Bosně, tak prej byly všechny lesy kolem Lublaně plný medvědů, prej jich tam bylo tolik, že z toho sami byli nervózní, kolik jich tam je pohromadě, a lidi, ty se tam vůbec báli chodit…“
@@ -226,3 +228,5 @@ Rarach mlčel a ohryzával si pařáty.
 „Tady! Jednu přísnou!“ vnucoval se mládenec v koutě a komíhal oběma rukama nad hlavou, ale nikdo si ho nevšímal.
 
 Zvedl jsem se a zamířil k hajzlům.
+
+</section>

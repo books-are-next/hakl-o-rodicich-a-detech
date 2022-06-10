@@ -3,6 +3,8 @@ title: Ať žije maršál Tito!
 contentType: prose
 ---
 
+<section>
+
 „Aha!“ řekl otec, když spatřil rozsáhlé, složitě tvarované cihlové stavení, hlídané po stranách dvěma holými komíny, ke kterému jsme se pomalu blížili. Byl to objekt č. p. 6, dům, který vypadá jako turecké lázně nebo jako sanatorium pro výstřední zazobance nebo možná spíš jako c. a k. pobočka vznešené tibetské Potaly, ale ve skutečnosti je to obyčejná sračkárna, bývalá čistička městských odpadních vod.
 
 Když jsme se octli přímo před budovou, otec se zastavil a dlouho ji pozoroval. „To mi něčim silně připomíná Ostrov mrtvejch vod Böcklina,“ řekl tichým hlasem.
@@ -118,3 +120,5 @@ Nad zátočinou Vltavy se vztyčil temný kopec Baba, z jehož svahů trče­ly
 „Přesně tak, muj známej Čenda Laburda v devětapadesáti zblbnul a zamiloval se do třicetiletý holky a vymyslel prosimtě, že pude na plastickou operaci, aby se jí líbil! Já ho varoval, že to může mít všelijaký vedlejší následky, ale Laburda ne, sebral se a šel a nechal si za příšerný peníze vytáhnout vobličej kuli vráskám. A za šest neděl přišel a nadával, že dřív se holil dvakrát tejdně, kdežto teď musí _dvakrát denně_, poněvadž jak mu to vytáhli takhle dozadu přes čelist, tak mu teď rostou fousy i za ušima. Von je eště ke všemu takovej snědej typ a ty fousy má už taky uplně bílý, žejo, tak mu nic jinýho nezbejvá, poněvadž jinak prej lidi v jednom kuse čuměj, pravda je, že vypadá, jako kdyby měl pocukrovanej krk…“
 
 Během řeči jsme došli k místu, kde se z Papírenské stává regulérní ulice. Z příbřežní pustiny se totiž nečekaně zvedají dvě řady rozbitých cihlových činžáků, které po nějakých dvou stech metrech zase končí, a dál už jsou jenom kameny a tráva. Skrz podvečerní vzduch na nás dýchl pach močoviny, vlhké omítky a plesnivých škrpálů v chodbě.
+
+</section>
