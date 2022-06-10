@@ -3,6 +3,8 @@ title: Svět
 contentType: prose
 ---
 
+<section>
+
 Opustili jsme lokál a došli po vrstevnici k místodržitelskému zámečku.
 
 „Nojo, ale kam teď?“ prohodil otec směrem k drobounkému cimbuří sídlišť na obzoru. Za kopcem, posázeným vybělenými kostkami paneláků, se plazil souvislý hřbet mračen.
@@ -108,3 +110,5 @@ Fakt je, že mě to kdysi učil znát. Kdysi jsme se spolu něco nachodili po le
 Minuli jsme rozpadající se starou vápenku. Přešli jsme po lávce nad jámou zrušené vlečky. Chvíli jsme hleděli do soutěsky, na jejímž dně mizel pod spadaným listím a větvemi rezavý oblouk kolejí. Do soutěsky, vykousané dynamitem do mastné a drolivé městské skály. _Cilp calp cilp calp_, kuvíkal v kopci za našimi zády budníček menší.
 
 Potom jsme s cigaretou v ruce vstoupili do srdce Bubenče. Po­čmáranými garážemi, zpuchřelými vilami a fungl novými autobazary ohraničený prostor, který se před námi otevřel, se nazýval Papírenská ulice.
+
+</section>

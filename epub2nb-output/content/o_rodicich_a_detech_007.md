@@ -3,6 +3,8 @@ title: Proč nemohla posádka Kurskasama opustit ponorku
 contentType: prose
 ---
 
+<section>
+
 „Prosimtebe, co ty se vždycky ptáš, co je novýho,“ povídá do kroku otec, „to je přece tak těžká otázka, že neexistuje těžší! Kdyby ses zeptal, jak se mám, to bych věděl…“
 
 „A jak se teda máš?“
@@ -382,3 +384,5 @@ Nasládle jsem se usmíval a cítil na sobě pohledy celé putyky. Vyser se na 
 „To je pravda,“ řekl jsem.
 
 „Jenže já poslední dobou, když najdu ve schránce i jenom _pohlednici_ nebo třeba i _složenku_, tak z toho mám radost a pečlivě si to čtu slovo vod slova, poněvadž v tu chvíli jasně vidim, že eště žiju…“
+
+</section>

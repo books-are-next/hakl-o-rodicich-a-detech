@@ -3,6 +3,8 @@ title: "O\_rodičích a\_dětech (2)"
 contentType: prose
 ---
 
+<section>
+
 „Umřel loni na Štědrej den,“ řekl jsem.
 
 „Aha, jak von byl starej? Von byl myslim vo něco mladší než já… A na co umřel?“
@@ -116,3 +118,5 @@ O tom, jak se na Šumavě v jedné chalupě v noci samy od sebe lehce a taje
 Napil jsem se a zjistil, že otec zděšeně hledí kamsi do kouta. Podíval jsem se tím směrem. Parta prošedivělých dětí si právě spouštěla do čerstvě natočených půllitrů panáka s nalitou zelenou. Panáky padaly ke dnu jako malí těžcí potápěči.
 
 „No nazdar…,“ řekl pomalu otec.
+
+</section>

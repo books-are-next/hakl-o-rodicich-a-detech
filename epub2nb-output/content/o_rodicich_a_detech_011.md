@@ -3,6 +3,8 @@ title: "O\_rodičích a\_dětech (1)"
 contentType: prose
 ---
 
+<section>
+
 Vykročili jsme předimenzovaným, pustým bulvárem z padesátých let zpátky do města. Po chvíli jsme minuli pajzl, jehož jméno znělo Eufrat, ale kterému se v životě neřeklo jinak než Arafat. Za výlohou beznadějně bzučel a poblikával zelený nápis oznamující, že v trubkách podniku koluje Staropramen. Vrátili jsme se a nakoukli dovnitř. U stolů seděli nahrbenci, hleděli před sebe, kousali do tlačenky a pili pivo.
 
 „Potěš pámbu,“ řekl tiše otec, „nezkusíme najít něco jinýho?“
@@ -174,3 +176,5 @@ Byla. Změnil jsem jenom jméno dotyčné a název lokality, protože poskytov�
 A zaviksovaná automatická pokladna mysli mi servíruje vzpomínku. Ležel jsem po ránu v posteli a rozhodně mi nemohlo být víc než pět let, když se otevřely dveře a už nade mnou stáli, můj černooký otec Ivan s odstávajícíma ušima, povoláním vědecký pracovník, a moje modrooká, naondulovaná matka Zdena, povoláním úřednice; stáli nade mnou a odříkávali větu, na které bylo znát, že si ji připravili předem: „Honzí, poslouchej, kdybysme se vodstěhovali z Klánovic, s kym z nás bys chtěl radši zustat… s tátou, nebo s mámou?“ „S mámou,“ odpověděl jsem zarytě, protože od otce jsem den předtím dostal na prdel za to, že jsem ho kousl do prstu. Zhotovil mi totiž dost pěkný křižník z dřevěných špalků a špejlí, jenže ten křižník disponoval pouhými osmi děly, takže jsem byl nucen trvat na tom, aby byl počet kanónů zvýšen; požadoval jsem, aby se přímo ježil kanóny. Otec to odmítl. Osm se mu zdálo dost. Spolkl jsem křivdu a pár hodin nato jsem ho, předstíraje, že je to v zápalu hry, která s křižníkem vůbec nesouvisí, kousl. Byl jsem trucovitý ksindl dočasně na pozici jedináčka. „S mámou,“ odpověděl jsem zarytě. A bylo to.
 
 „A co ten Pepča, žije von eště?“ ozval se otec.
+
+</section>

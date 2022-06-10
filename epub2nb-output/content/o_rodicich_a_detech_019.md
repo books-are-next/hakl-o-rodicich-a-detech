@@ -3,6 +3,8 @@ title: Kafe
 contentType: prose
 ---
 
+<section>
+
 Když jsem procházel parčíkem směrem od Pětníku, všiml jsem si jedné zvláštní věci. V koruně stromu vedle dětského hřiště seděl vychrtlý bledý chlapík a zamyšleně plival dolů. Chtě nechtě jsem to musel vzít kolem něho. Když jsem ho míjel, trhnul hlavou, odhodil čupřinu a upřel na mě kalný zrak: „Na nic se mě neptej, proč tay sedim, nač tay sedim… Tfuj… Šichni umíte akorát kecat, tfuuuj… Kecáte a kecáte a to je šecko, co umíte… Ser na mě a pokračuj… Tfuuuj… Di doajzlu…,“ hovořil ke mně a dlouhá slina mu kanula z úst na zdupaný suchý trávník.
 
 „Jestlipak aspoň víš, jak se menuje ten strom, na kterym sedíš?“ zachtělo se mi říct, ale raději jsem mlčel. Už taky proto, že jsem to sám nevěděl; poznám dub, poznám lípu, břízu, osiku, javor, topol, tis, vrbu, většinu základních ovocných stromů, poznám, to dá rozum, smrk, modřín, jedli a borovici, někdy babyku, a kdyby o to šlo, tak snad i jinan. Ale tím to hasne.
@@ -38,3 +40,5 @@ Holka se zasmála: „Musíš trénovat reakce!“
 „Zdravim tě, co si dáš?“ stanul nade mnou pingl, kterého jsem znal od vidění; nebyl ničím zvlášť nápadný ani zajímavý, až na to, že o něm bylo známo, že nosí místo trenýrek výhradně dámské kalhotky. Jinak byl údajně v pořádku. Na otázku, proč nosí dámský kalhotky, odpovídal, že je to prostě pohodlný.
 
 „Dvojitý preso a hned ho zaplatim,“ odpověděl jsem.
+
+</section>

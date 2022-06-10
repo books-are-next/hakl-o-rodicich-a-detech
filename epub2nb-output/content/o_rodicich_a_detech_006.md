@@ -3,6 +3,8 @@ title: Pavilon tučňáků
 contentType: prose
 ---
 
+<section>
+
 „Za kym že?“ natáhl ucho dědek ve vrátnici, ale nepodíval se na mě, protože něco pečlivě krájel a rovnal v umaštěném papíru.
 
 „Za panem Benešem,“ zopakoval jsem.
@@ -34,3 +36,5 @@ Otec stál nehybně před vrátnicí, a ačkoliv bylo pořád ještě léto, m�
 „Novýho neni na světě nic už dvě miliardy let, všechno jsou to jenom variace na téma uhlík, vodík, kyslík a dusík,“ odpověděl mi otec.
 
 A vydali jsme se na procházku. To jest obešli jsme Trojský zámek, přešli po lávce, ze které jsem plivl do husté, zvolna se valící vltavské vody, vzali to napříč přes Císařský ostrov a došli k další lávce, ze které otec upustil táhlou bílou slinu do husté, zvolna se valící vody plavebního kanálu. Potom jsme vstoupili do Stromovky.
+
+</section>
