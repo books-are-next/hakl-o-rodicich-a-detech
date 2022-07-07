@@ -10,6 +10,8 @@ vedoucí k mému srdci._
 
 — FERNANDO PESSOA
 
+  
+
 _Wida slzy v jeho očich nikdo tam neffel,  
 takže samoten dvě léta v té pouffti bydlel;  
 a když třikrát za den zazněl z kapličky zvonec,  
