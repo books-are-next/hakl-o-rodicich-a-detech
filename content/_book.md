@@ -13,6 +13,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
   contentType: prose
+  isbn: 978-80-274-2682-9
 readingOrder:
   - promo.html
   - o_rodicich_a_detech_005.html
