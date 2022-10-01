@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hakl-o-rodicich-a-detech-5889b95",
-  "revision": "5889b95",
+  "identifier": "hakl-o-rodicich-a-detech-5e16c8a",
+  "revision": "5e16c8a",
   "readingOrder": [
     "promo.html",
     "o_rodicich_a_detech_005.html",
@@ -30,8 +30,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Sep 29 2022 21:23:38 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664486618939
+    "date": "Sat Oct 01 2022 15:49:45 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664639385348
   },
   "documents": [
     {
