@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hakl-o-rodicich-a-detech-5502803",
-  "revision": "5502803",
+  "identifier": "hakl-o-rodicich-a-detech-1b29489",
+  "revision": "1b29489",
   "readingOrder": [
     "promo.html",
     "o_rodicich_a_detech_005.html",
@@ -30,8 +30,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:54:25 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665150865273
+    "date": "Mon Oct 10 2022 15:46:24 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665416784299
   },
   "documents": [
     {
@@ -350,7 +350,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 147,
-      "chars": 945,
+      "chars": 946,
       "ideas": 15,
       "role": "about",
       "order": null,
@@ -370,7 +370,7 @@
   "totals": {
     "all": {
       "words": 32694,
-      "chars": 186180,
+      "chars": 186181,
       "ideas": 1127
     },
     "chapters": {
